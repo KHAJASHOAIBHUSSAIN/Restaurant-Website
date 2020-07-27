@@ -20,7 +20,7 @@
 .jumbotron{
     padding: 70px 30px 70px 30px;
     margin: 0px auto;
-    background: purple;
+    background: #4267B2;
     color: floralwhite;
 }
 
@@ -30,7 +30,7 @@
     color: #0f0f0f;
 }
 body{
-    padding: 50px 0px 0px 0px;
+    padding: 30px 0px 0px 0px;
     z-index: 0px;
 }
 .navbar-dark{
